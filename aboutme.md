@@ -1,4 +1,5 @@
-name: Simon
-school: HTL Leoben
-class: spl
-group: 3
+# About me
+* name: Simon
+* school: HTL Leoben
+* class: spl
+* group: 3
