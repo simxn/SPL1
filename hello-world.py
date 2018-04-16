@@ -1,2 +1,3 @@
 # Hello World mit Python
-print("Hello World!")
+name = input("What's your name?")
+print("Hello World!", name)
