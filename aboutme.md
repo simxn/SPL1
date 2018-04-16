@@ -8,3 +8,7 @@
 * playing saxophone & clarinet
 * soccer player
 * skiing
+
+## Programming skills
+* Java
+* HTML
